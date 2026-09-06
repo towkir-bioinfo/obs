@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788687140560-pi1v7wadd",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788687140714-tmbyoih",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788687140557-gzenfz3",
+      "timestamp": 1788687140557,
+      "rawDisplayText": "create a uniq id for this project",
+      "canonicalText": "create a uniq id for this project",
+      "context": {
+        "linkedContent": {
+          "path": "01_homolog_oc_moc.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "6fb798d26a478cec9565eef3bf29d73e83936cd5610cf48c362dbf9fee628e65",
+      "providerUserMessageId": "be9fd8dc-af39-47ff-a7ff-64285935aca0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788687149302-353xy96",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788687149300-cn2wdx9",
+      "timestamp": 1788687149300,
+      "rawDisplayText": "/login",
+      "canonicalText": "/login",
+      "images": [],
+      "contentDigest": "7b1f9a12813a9960dd5d68b32e9dcb26241bb5f076c2b696755f2a290afd8de3",
+      "providerUserMessageId": "9aaf7635-02cc-409a-924b-276bb0eb85d5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788687191027-c4jy22c",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788687191024-r0g9ir4",
+      "timestamp": 1788687191024,
+      "rawDisplayText": "how to login",
+      "canonicalText": "how to login",
+      "images": [],
+      "contentDigest": "ab78dbe31247939b61bc5d04d1e3b48e24187ef3be77ed1cb1226d301d2d8091",
+      "providerUserMessageId": "13b74190-10bf-4edc-869b-792ecfa336d1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788687619478-gab837k",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788687619475-c2avs65",
+      "timestamp": 1788687619475,
+      "rawDisplayText": "create a uniq id for this project",
+      "canonicalText": "create a uniq id for this project",
+      "images": [],
+      "contentDigest": "6fb798d26a478cec9565eef3bf29d73e83936cd5610cf48c362dbf9fee628e65",
+      "providerUserMessageId": "004c097e-b0ba-49bc-80ed-840b62622f86"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788687639470-luuddtw",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1788687639468-a9gxijx",
+      "timestamp": 1788687639468,
+      "rawDisplayText": "/login",
+      "canonicalText": "/login",
+      "images": [],
+      "contentDigest": "7b1f9a12813a9960dd5d68b32e9dcb26241bb5f076c2b696755f2a290afd8de3",
+      "providerUserMessageId": "0bb86d1e-b629-468d-b273-ac762e5ffe64"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788687655957-8up685p",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1788687655955-hkw4khw",
+      "timestamp": 1788687655955,
+      "rawDisplayText": "/login",
+      "canonicalText": "/login",
+      "images": [],
+      "contentDigest": "7b1f9a12813a9960dd5d68b32e9dcb26241bb5f076c2b696755f2a290afd8de3",
+      "providerUserMessageId": "9bf8e8f4-b683-48a2-9b32-c413d0b3eb0f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788687764954-2mo4tga",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788687764947-oftwzxi",
+      "timestamp": 1788687764947,
+      "rawDisplayText": "create a uniq id for this project",
+      "canonicalText": "create a uniq id for this project",
+      "images": [],
+      "contentDigest": "6fb798d26a478cec9565eef3bf29d73e83936cd5610cf48c362dbf9fee628e65",
+      "providerUserMessageId": "dd6cde4f-d070-4799-844c-884ab7257e91"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788689037808-w3kmqwm",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788689037798-h0mmiyi",
+      "timestamp": 1788689037798,
+      "rawDisplayText": "hi",
+      "canonicalText": "hi",
+      "images": [],
+      "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
+      "providerUserMessageId": "bff01b32-9050-40ad-b229-54806919af9d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788689195009-e2fx4ae",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788689195002-y822la0",
+      "timestamp": 1788689195002,
+      "rawDisplayText": "hi",
+      "canonicalText": "hi",
+      "images": [],
+      "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
+      "providerUserMessageId": "2eec40d5-6496-4fd0-86ea-b42bde5793b3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788689405491-wrzoc1u",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1788689405482-fsnu8zb",
+      "timestamp": 1788689405482,
+      "rawDisplayText": "hi",
+      "canonicalText": "hi",
+      "images": [],
+      "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
+      "providerUserMessageId": "002321d6-381c-4985-941d-a2e4131ccdaf",
+      "providerAssistantMessageId": "96e7be60-97fb-4903-bc86-3b41309e8f6a"
+    }
+  ]
+}

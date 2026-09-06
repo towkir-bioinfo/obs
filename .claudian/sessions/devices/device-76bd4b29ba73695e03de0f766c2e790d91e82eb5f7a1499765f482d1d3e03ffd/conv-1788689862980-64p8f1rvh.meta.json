@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788689862980-64p8f1rvh",
+  "providerId": "claude",
+  "title": "Rename and add Excalidraw to homolog OC MoC",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788689862982,
+  "lastActivityAt": 1788691151964,
+  "sessionId": "f114e9fc-346c-4988-8f54-49924a13e880",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "f114e9fc-346c-4988-8f54-49924a13e880"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 305,
+    "cacheReadInputTokens": 64733,
+    "contextWindow": 1000000,
+    "contextTokens": 65040,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788689862980-64p8f1rvh",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788689863010-60030r8",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788689862978-13mq1x0",
+      "timestamp": 1788689862978,
+      "rawDisplayText": "chang the name and add this excalidraw to @01_homolog_oc/01_homolog_oc_moc.md",
+      "canonicalText": "chang the name and add this excalidraw to @01_homolog_oc/01_homolog_oc_moc.md",
+      "images": [],
+      "contentDigest": "63eba1e38eb8fc8eac7f6e68cd109ef14d116152bda111eeeba90b1467880aa9",
+      "providerUserMessageId": "513d953b-2f84-428a-8ba1-cddb797f18cd",
+      "providerAssistantMessageId": "4be01f15-48a0-4a3e-8562-ffec8d95f119"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788690069439-h6jymm0",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788690069436-r5dknth",
+      "timestamp": 1788690069436,
+      "rawDisplayText": "@Excalidraw/01_homolog_oc_experimental_design.excalidraw.md  this will go to @02_knocout_os/  and  amke a moc for this project also",
+      "canonicalText": "@Excalidraw/01_homolog_oc_experimental_design.excalidraw.md  this will go to @02_knocout_os/  and  amke a moc for this project also",
+      "images": [],
+      "contentDigest": "5cfe9846d565d3a2ca0fc213f89be3d22e647a69b61649dc3c67e935bc080db1",
+      "providerUserMessageId": "4c0b091b-ba9f-4d20-ad98-b54d76bdb830",
+      "providerAssistantMessageId": "3a241491-27bc-4b52-b360-a4bab6038a7a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788690689362-kpch5ex",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788690689357-ifcqthl",
+      "timestamp": 1788690689357,
+      "rawDisplayText": "@Plant Line Registry.md  change the title in a way that is understant this files orinigin .. anf amake a table of line .. the correct format is p-24-1 all thta has only number will be p-the number-1 and thoses has 2  like 1-2 will be p-1-2 like",
+      "canonicalText": "@Plant Line Registry.md  change the title in a way that is understant this files orinigin .. anf amake a table of line .. the correct format is p-24-1 all thta has only number will be p-the number-1 and thoses has 2  like 1-2 will be p-1-2 like",
+      "images": [],
+      "contentDigest": "8c68a31042913425a9e68e7589d44e6935a576d4da87cb61a8d964107bbb9101",
+      "providerUserMessageId": "7300d5bc-33ce-4e6f-a38e-2d75a1829e55",
+      "providerAssistantMessageId": "4acbac21-e3af-469e-a086-c936f6318cf2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788690840530-4qvcv7y",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788690840527-4j0zqzo",
+      "timestamp": 1788690840527,
+      "rawDisplayText": "@OCMT Transgenic Line Registry (BRRI Dhan67).md  remove the origilan column",
+      "canonicalText": "@OCMT Transgenic Line Registry (BRRI Dhan67).md  remove the origilan column",
+      "images": [],
+      "contentDigest": "82433cb45775302ef951b3156d18fa34670da7902d0d3c67bfefc5bd586b1005",
+      "providerUserMessageId": "856e7665-4d4c-42d0-ab3c-472d27cb1b07",
+      "providerAssistantMessageId": "b4cc5b19-3223-4b2d-acc8-b96d91a3368c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788691108246-0vzarf1",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1788691108243-ww6ypgy",
+      "timestamp": 1788691108243,
+      "rawDisplayText": "@DNA extraction.md  rename this and link to moc and do not creat a new note just modify this note",
+      "canonicalText": "@DNA extraction.md  rename this and link to moc and do not creat a new note just modify this note",
+      "images": [],
+      "contentDigest": "7f24878c19a6a41e0282da9a64d3f9e79cd1bb67670e7cdd3e4c549dce3758ad",
+      "providerUserMessageId": "4bd21e1b-e6bd-4527-ac0b-ec84c2b85485",
+      "providerAssistantMessageId": "3d524bad-741a-4452-bcab-cb390ada5ddf"
+    }
+  ]
+}

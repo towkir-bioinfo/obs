@@ -1,0 +1,26 @@
+{
+  "id": "conv-1788687140560-pi1v7wadd",
+  "providerId": "claude",
+  "title": "create a uniq id for this project",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788687140562,
+  "lastActivityAt": 1788689412828,
+  "sessionId": "c944d86f-42f3-4d38-87c8-c741cbbae11a",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "c944d86f-42f3-4d38-87c8-c741cbbae11a"
+  },
+  "linkedContentPath": "01_homolog_oc_moc.md",
+  "isPinned": false,
+  "isArchived": true,
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 19444,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 19446,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}
