@@ -20,6 +20,20 @@
       "contentDigest": "6ba0492c3da5dd95d0d28ebbea60b5f5f27fb9e8dbe9a5d379dafad571fd39ac",
       "providerUserMessageId": "bfdf6da9-c9fc-44ab-b0e8-ce29fa28f5c4",
       "providerAssistantMessageId": "5450edcb-9e1b-4883-ab7b-67f6adccf517"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788728750104-8irh8ox",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788728750034-frddfvj",
+      "timestamp": 1788728750034,
+      "rawDisplayText": "@01_homolog_oc/01_homolog_oc_moc.md  update use the files in the @01_homolog_oc/  folder",
+      "canonicalText": "@01_homolog_oc/01_homolog_oc_moc.md  update use the files in the @01_homolog_oc/  folder",
+      "images": [],
+      "contentDigest": "415a46859f7f15a148af7953cf3758c3113f9cc6ce6ad78b5795dd47076ee2e3",
+      "providerUserMessageId": "2d3753cf-b43e-4740-ba58-ae261c9b776c",
+      "providerAssistantMessageId": "9a52c1da-4a18-4120-8b1e-27f83c2f91d9"
     }
   ]
 }
