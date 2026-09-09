@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788725961855-b37zh77u0",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788725962032-1t3kh0x",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788725961850-q86wkwn",
+      "timestamp": 1788725961850,
+      "rawDisplayText": "hi",
+      "canonicalText": "hi",
+      "images": [],
+      "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
+      "providerUserMessageId": "47ccaf39-39d0-4b19-9e4c-793e6c59945d",
+      "providerAssistantMessageId": "fcae3e3b-396a-4e21-b16e-253ab3c3abbe"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788726319472-yfawhcz",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788726319465-ui17ua8",
+      "timestamp": 1788726319465,
+      "rawDisplayText": "@extra/567/  there is many file in this folder sort them into the folders 01,02,03 if they are related to the folders.. also link them to real mocs.. how to find the file that has 01309298993 it the real moc.. moc file is the dashboard for the project so link all the relavent files in a way that i do not have to see or search other file.. i can just see the moc files and understand all about the projects",
+      "canonicalText": "@extra/567/  there is many file in this folder sort them into the folders 01,02,03 if they are related to the folders.. also link them to real mocs.. how to find the file that has 01309298993 it the real moc.. moc file is the dashboard for the project so link all the relavent files in a way that i do not have to see or search other file.. i can just see the moc files and understand all about the projects",
+      "images": [],
+      "contentDigest": "9bbb5a279554f83f2ba59e50965f5a42a3b63345c5fe313fd91fb325ddcc9534",
+      "providerUserMessageId": "29cf26bd-e7c9-4d2a-831c-5fb5dc2a903e",
+      "providerAssistantMessageId": "e9ad7e61-5880-4f07-a6ad-30feac42db07"
+    }
+  ]
+}

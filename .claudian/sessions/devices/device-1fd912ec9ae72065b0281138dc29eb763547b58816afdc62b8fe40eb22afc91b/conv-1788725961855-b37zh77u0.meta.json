@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788725961855-b37zh77u0",
+  "providerId": "claude",
+  "title": "Greeting with no task specified",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788725961858,
+  "lastActivityAt": 1788727525302,
+  "sessionId": "defb6833-d226-4e1d-8e34-06ff5826c2f8",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "defb6833-d226-4e1d-8e34-06ff5826c2f8"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2930,
+    "cacheReadInputTokens": 150711,
+    "contextWindow": 1000000,
+    "contextTokens": 153643,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}
