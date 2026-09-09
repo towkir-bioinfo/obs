@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "courses"
+    order:
+      - file.name
+      - file.embeds
+      - file.ctime

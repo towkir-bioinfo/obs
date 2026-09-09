@@ -4,7 +4,7 @@
   "title": "Sort extra/567 notes into project folders and b...",
   "titleGenerationStatus": "success",
   "createdAt": 1788727525924,
-  "lastActivityAt": 1788728801902,
+  "lastActivityAt": 1788869770533,
   "sessionId": "a2238134-5bc0-432f-a8e3-39756d043dfd",
   "selectedModel": "sonnet",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 2698,
-    "cacheReadInputTokens": 79201,
+    "cacheCreationInputTokens": 526,
+    "cacheReadInputTokens": 114394,
     "contextWindow": 1000000,
-    "contextTokens": 81901,
-    "percentage": 8,
+    "contextTokens": 114922,
+    "percentage": 11,
     "contextWindowIsAuthoritative": true
   }
 }
