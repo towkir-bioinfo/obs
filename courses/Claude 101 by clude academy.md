@@ -4,6 +4,7 @@ claude academy [Claude 101](https://academy.claude.com/courses/claude-101)
 [[Your first conversation with Claude · Claude 101]]
 [[Getting better results · Claude 101]]
 [[How you'll work with Claude on your desktop · Claude 101]]
+[[Introduction to projects · Claude 101]]
 
 
 
