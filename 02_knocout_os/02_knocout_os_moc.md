@@ -31,10 +31,19 @@ tags:
 	1. [[BR-67 T3 DNA Extraction (2026-09-03)]]
 	2. [[02_knocout_os_e001_pcr_mt_confirmation_t3]] — PCR (with primer), 25 T3 BR67 plants
 2. In planta / CRISPR
+	1. [[Alam et al 2022]] — reference paper (OsbHLH024 knockout via CRISPR/Cas9, salt stress in rice); design notes point at a not-yet-created [[proposal os knockout]] plan
+	2. [[CRISPR Cas9 Knockout]] — mechanism primer (gRNA → Cas9 cut → indel repair → knockout)
 
 ## Protocols
 
 - [[02_knocout_os_ctab_dna_extraction_protocol]] — CTAB genomic DNA extraction from rice young leaf (bench wording)
+- [[DNA_extraction_short_method_real_world_guide]] — detailed real-world walkthrough of the short (SDS-based) extraction method, step-by-step with troubleshooting per step
+
+### Reagent notes (CTAB protocol background)
+
+- [[CTAB]] — why CTAB, buffer composition table, 60 °C rationale
+- [[β-mercaptoethanol]] — disulfide reduction + anti-browning role, safety warning
+- [[Sodium acetate]] — precipitation chemistry, concentration/volume/pH rationale
 
 ## Experiments
 
@@ -43,7 +52,6 @@ tags:
 ## Line registries
 
 - [[OCMT Transgenic Line Registry (BRRI Dhan67)]] — in planta *OCMT* over-expression lines, `p-<line>-<sub>` IDs
-- [[02_knocout_os_br67_mt_plant_lines_registry]] — T3 lines: MT transgenic + WT controls, formal names
 
 ## Design references
 

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789136463905-sto7pxfii",
+  "providerId": "claude",
+  "title": "Update homolog OC MOC from project files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789136463910,
+  "lastActivityAt": 1789210072518,
+  "sessionId": "c019d3bb-1451-4c8d-ab99-d4875f2efb09",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c019d3bb-1451-4c8d-ab99-d4875f2efb09"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1231,
+    "cacheReadInputTokens": 100608,
+    "contextWindow": 200000,
+    "contextTokens": 101841,
+    "percentage": 51,
+    "contextWindowIsAuthoritative": false
+  }
+}

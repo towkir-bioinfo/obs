@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789121637266-33hg6jo3f",
+  "providerId": "claude",
+  "title": "Convert checkboxes to numbered list",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789121637269,
+  "lastActivityAt": 1789121666591,
+  "sessionId": "41ec5d49-53a5-4503-a069-3e59fa6837e4",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "41ec5d49-53a5-4503-a069-3e59fa6837e4"
+  },
+  "linkedContentPath": "02_knocout_os/DNA_extraction_short_method_real_world_guide.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1501,
+    "cacheReadInputTokens": 36497,
+    "contextWindow": 1000000,
+    "contextTokens": 38000,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

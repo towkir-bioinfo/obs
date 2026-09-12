@@ -44,6 +44,10 @@ tags:
 
 - [[01_homolog_oc_protocol_lineage]] *(note · active)* — one-line lineage: finder protocol ran first, reanalysis pipeline is the re-run.
 
+## Reference assets
+
+- `pdf2png/Cheng et al 2021/` *(asset · added 2026-09-11)* — 17 page images (PNG) rendered from a Cheng et al. 2021 paper; no note yet links or cites it — check whether it backs a claim in the finder protocol or pipeline before treating it as settled reference material.
+
 ## Everything in this project (auto)
 
 ```dataview

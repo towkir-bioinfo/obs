@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789121947949-62pqpeq67",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789121947973-qkn889u",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789121947947-e7k5dtf",
+      "timestamp": 1789121947947,
+      "rawDisplayText": "organize this to look good",
+      "canonicalText": "organize this to look good",
+      "context": {
+        "linkedContent": {
+          "path": "Excalidraw/zm501.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "25c2ac78fe31cebebda080c931d873db21c3eb6e4241b4878390e7297d7f8e5f",
+      "providerUserMessageId": "b1e1fe61-6ace-41a3-989a-9139b14ac4bf",
+      "providerAssistantMessageId": "1f1d0f60-1ceb-482c-ad42-500e9002cac4"
+    }
+  ]
+}

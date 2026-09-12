@@ -16,7 +16,7 @@ CRISPR/Cas9 strategy to generate the gene editing mutant to investigate the role
 
 sbhlh024 mutant (A91) they deleted a base --> we will also do the same kind of [[proposal os knockout]] (need to make this file) 
 
-![[Excalidraw/Drawing 2026-09-07 17.40.33.excalidraw]]
+![[Drawing 2026-09-07 17.40.33.excalidraw]]
 
 so they CRISPR --> check 1. MDM,chrophyll,na k level etc
                     2.  gene expression 

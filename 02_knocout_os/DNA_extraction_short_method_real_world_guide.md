@@ -1358,47 +1358,47 @@ These should be filled from the laboratory's validated SOP, reagent labels, or i
 # 42. One-page operational checklist
 
 ### Before Day 1
-- [ ] Label all tubes
-- [ ] Prepare extraction buffer
-- [ ] Verify Proteinase K stock concentration
-- [ ] Verify RNase stock concentration
-- [ ] Verify sodium acetate concentration/pH
-- [ ] Chill centrifuge to 4°C
-- [ ] Prepare liquid nitrogen
-- [ ] Prepare PPE/fume hood
+1. Label all tubes
+2. Prepare extraction buffer
+3. Verify Proteinase K stock concentration
+4. Verify RNase stock concentration
+5. Verify sodium acetate concentration/pH
+6. Chill centrifuge to 4°C
+7. Prepare liquid nitrogen
+8. Prepare PPE/fume hood
 
 ### Day 1
-- [ ] 0.5 g tissue
-- [ ] Pulverize in liquid N₂
-- [ ] Add 1 mL extraction buffer
-- [ ] Mix
-- [ ] Add 1 mL PCI
-- [ ] Centrifuge 15 min at the **validated** speed, 4°C
-- [ ] Transfer 300–400 µL aqueous phase
-- [ ] Add 400 µL PCI
-- [ ] Centrifuge at validated condition
-- [ ] Transfer 150–200 µL aqueous phase
-- [ ] Add 5 µL Proteinase K
-- [ ] 37°C, 40 min
-- [ ] Add 1 mL isopropanol
-- [ ] Add 1/10 volume sodium acetate
-- [ ] Overnight precipitation
+1. 0.5 g tissue
+2. Pulverize in liquid N₂
+3. Add 1 mL extraction buffer
+4. Mix
+5. Add 1 mL PCI
+6. Centrifuge 15 min at the **validated** speed, 4°C
+7. Transfer 300–400 µL aqueous phase
+8. Add 400 µL PCI
+9. Centrifuge at validated condition
+10. Transfer 150–200 µL aqueous phase
+11. Add 5 µL Proteinase K
+12. 37°C, 40 min
+13. Add 1 mL isopropanol
+14. Add 1/10 volume sodium acetate
+15. Overnight precipitation
 
 ### Day 2
-- [ ] Pre-cool centrifuge to 4°C
-- [ ] Centrifuge 15 min at validated speed
-- [ ] Add 500 µL 70–80% ethanol
-- [ ] Wash
-- [ ] Repeat ethanol wash
-- [ ] Remove ethanol
-- [ ] Air dry without overdrying
-- [ ] Resuspend in 30–50 µL TE
-- [ ] Add 5 µL RNase
-- [ ] 37°C, 40 min
-- [ ] NanoDrop
-- [ ] Prepare 0.8% agarose gel
-- [ ] Run gel
-- [ ] Document result
+1. Pre-cool centrifuge to 4°C
+2. Centrifuge 15 min at validated speed
+3. Add 500 µL 70–80% ethanol
+4. Wash
+5. Repeat ethanol wash
+6. Remove ethanol
+7. Air dry without overdrying
+8. Resuspend in 30–50 µL TE
+9. Add 5 µL RNase
+10. 37°C, 40 min
+11. NanoDrop
+12. Prepare 0.8% agarose gel
+13. Run gel
+14. Document result
 
 ---
 

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789121637266-33hg6jo3f",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789121637294-tytaf3v",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789121637264-gwic01j",
+      "timestamp": 1789121637264,
+      "rawDisplayText": "convert all tick box just numbered list",
+      "canonicalText": "convert all tick box just numbered list",
+      "context": {
+        "linkedContent": {
+          "path": "02_knocout_os/DNA_extraction_short_method_real_world_guide.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "66b10049465a6795422f548cf4cca434a02d1cff4769cbac8c8d6eef5c467d0f",
+      "providerUserMessageId": "083d8d1d-c74a-4707-a5ed-97470996d58e",
+      "providerAssistantMessageId": "0c5a2cf9-dc80-4516-88b6-6752385ea4fc"
+    }
+  ]
+}
