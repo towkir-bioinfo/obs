@@ -54,6 +54,11 @@ WHERE type = "report"
 SORT as_of DESC
 ```
 
+- [[cblast_annual_report_24th_session]] — raw per-course, per-session enrolment table (the source data [[cblast Annual report]] is built from); no `type` frontmatter so it doesn't appear in the table above
+- [[cBLAST কোর্সের সেশন অগ্রগতি প্রতিবেদন]] — Bangla-language progress summary. ⚠️ Numbers don't match the English report: says 24th session has **16** current students (report says 10 new) and adds a figure not tracked elsewhere — **134** cumulative certificate holders. Reconcile before citing either.
+- [[Know_About_cBLAST]] — course catalogue reference: full course list + per-module fee schedule
+- [[cBLAST Pad - Copy]] — 23 Aug 2026 permission-request letter (poster display, NSU Biochemistry & Biotechnology dept.)
+
 ## 🗂 Everything in this area (auto)
 
 ```dataview
@@ -83,10 +88,10 @@ WHERE !completed
 
 ## 🔁 Recurring admin duties
 
-- [x] At session open: create the session log, record start/end dates, set targets
-- [x] Mid-session: update in-progress counts with an "as of" date
-- [x] At session close: finalise counts, re-sum cumulative totals, set report `status: final`
-- [x] After close: roll the finished session into the register above and start the next
+- At session open: create the session log, record start/end dates, set targets
+- Mid-session: update in-progress counts with an "as of" date
+- At session close: finalise counts, re-sum cumulative totals, set report `status: final`
+- After close: roll the finished session into the register above and start the next
 
 ---
 

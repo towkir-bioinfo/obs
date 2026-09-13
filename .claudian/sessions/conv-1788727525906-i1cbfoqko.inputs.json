@@ -99,6 +99,45 @@
       "contentDigest": "60a8640d508f2454e0e51e78d45d9e232dd36f432b616cfd85d7cab2073c73c0",
       "providerUserMessageId": "d813dd6d-2892-4c18-98f4-544695305284",
       "providerAssistantMessageId": "2de1bb08-5d8a-45f5-8c5d-306b1e613a67"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789120029675-geign5o",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1789120029639-4p1y2wn",
+      "timestamp": 1789120029639,
+      "rawDisplayText": "make home file",
+      "canonicalText": "make home file",
+      "images": [],
+      "contentDigest": "d5ae9ae7f811c3f196fae6c654f4eaf95b14fe69eb3a92631aff186ea189053e",
+      "providerUserMessageId": "a14acec6-3dfa-4952-b407-44300e6aa8ab"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789120329926-vrwjbqv",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1789120329890-5r4zxxg",
+      "timestamp": 1789120329890,
+      "rawDisplayText": "Error: Failed to authenticate: OAuth session expired and could not be refreshed",
+      "canonicalText": "Error: Failed to authenticate: OAuth session expired and could not be refreshed",
+      "images": [],
+      "contentDigest": "afb80f8001f96c0b114696ddf8d879bdbbfff09a6935dd6a52d6d8ab59ad311e",
+      "providerUserMessageId": "9f948bb9-5e35-4c9b-ab34-fd0a1feba494"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789120349963-54quqr9",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1789120349955-1d6mmgj",
+      "timestamp": 1789120349955,
+      "rawDisplayText": "make home",
+      "canonicalText": "make home",
+      "images": [],
+      "contentDigest": "eecf53815e04521f6cb93db6b2c972657f73674563062a68c84cd954678921f8",
+      "providerUserMessageId": "dfafc6a8-4a6a-43ce-be5d-98afc737158f"
     }
   ]
 }

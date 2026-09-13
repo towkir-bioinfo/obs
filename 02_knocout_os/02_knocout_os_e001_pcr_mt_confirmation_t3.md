@@ -42,9 +42,7 @@ Due to Mendelian inheritance, the MT gene may not transmit from one generation t
 
 ## Open
 
-- [ ] Re-extract with the step-3 shake included and compare DNA quality
-- [ ] Record per-plant presence/absence scores once PCR + gel are run
-- [ ] Note the primer pair and expected amplicon size in this file
+
 
 ## Related
 

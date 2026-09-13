@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789120729426-k0fb8r6o9",
+  "providerId": "claude",
+  "title": "Create home file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789120729429,
+  "lastActivityAt": 1789120794875,
+  "sessionId": "6532dd09-481e-4ec1-a390-a615feefdbcc",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "6532dd09-481e-4ec1-a390-a615feefdbcc"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 631,
+    "cacheReadInputTokens": 37384,
+    "contextWindow": 1000000,
+    "contextTokens": 38017,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

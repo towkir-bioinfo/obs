@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789136463905-sto7pxfii",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789136464027-niv4xux",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789136463901-n34cxep",
+      "timestamp": 1789136463901,
+      "rawDisplayText": "@01_homolog_oc/01_homolog_oc_moc.md  update using the files of @01_homolog_oc/  folder",
+      "canonicalText": "@01_homolog_oc/01_homolog_oc_moc.md  update using the files of @01_homolog_oc/  folder",
+      "images": [],
+      "contentDigest": "fd6b1cdd57025a0a3b92b6bbd1caeec404933509005adc96378bbe140e3b7d73",
+      "providerUserMessageId": "edae2a1c-0559-4c2c-a8cd-fd13b505a4cf",
+      "providerAssistantMessageId": "179f0188-24ab-43df-a707-d953f7211e0b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789136534844-swzkusl",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789136534839-610upl5",
+      "timestamp": 1789136534839,
+      "rawDisplayText": "@02_knocout_os/02_knocout_os_moc.md  update using @02_knocout_os/  files",
+      "canonicalText": "@02_knocout_os/02_knocout_os_moc.md  update using @02_knocout_os/  files",
+      "images": [],
+      "contentDigest": "d6c15ef8c6e05575f8ac68d948dbeb308054d13cf125ae62cb83079d2db65928",
+      "providerUserMessageId": "c9e43161-5098-4ef1-8d7a-c67ffeaaec47",
+      "providerAssistantMessageId": "afbe951e-dd00-4607-93a9-631aaf4a09b7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789137261168-jnzy35j",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789137261161-5ffrj8v",
+      "timestamp": 1789137261161,
+      "rawDisplayText": "@04_cblast/04_cblast_moc.md UPDATE using files @04_cblast/ folder",
+      "canonicalText": "@04_cblast/04_cblast_moc.md UPDATE using files @04_cblast/ folder",
+      "images": [],
+      "contentDigest": "250722e7f78c72607c1c47e5654162c889ce10b9d000d211b5ea9cd20ba4c315",
+      "providerUserMessageId": "22e78908-640e-459e-8258-17a2fd3d1dd5",
+      "providerAssistantMessageId": "04171f1b-d487-4861-bc69-759b2168e9e3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789138215988-iedei32",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789138215904-9efv726",
+      "timestamp": 1789138215904,
+      "rawDisplayText": "@exam/  make a exam.moc file",
+      "canonicalText": "@exam/  make a exam.moc file",
+      "images": [],
+      "contentDigest": "5c24577e6d47dc5e86cf6d1b0b8e2d68a46435262ed0f802b1b578bb4b049c4d",
+      "providerUserMessageId": "f4d05e97-ddb1-496f-ab5a-21f19a505295",
+      "providerAssistantMessageId": "6d7421a9-b7f1-4485-8804-c6fd2c900dde"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789210046971-fq5z41e",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1789210046951-lx30bqu",
+      "timestamp": 1789210046951,
+      "rawDisplayText": "[[exam/zm501-02mid.md|zm501-02mid]]  organize this in [[zm02.md|zm02]]",
+      "canonicalText": "[[exam/zm501-02mid.md|zm501-02mid]]  organize this in [[zm02.md|zm02]]",
+      "images": [],
+      "contentDigest": "7ec80d45601b9a9ffbb45ded1f8593628565f98e9a1a0eb0c17f64f6b161b275",
+      "providerUserMessageId": "075173f2-2304-4bb8-8d80-8796f2a760da"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789210070861-eguypvr",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1789210070856-cg3ophn",
+      "timestamp": 1789210070856,
+      "rawDisplayText": "[[exam/zm501-02mid.md|zm501-02mid]]  organize this in [[zm02.md|zm02]]",
+      "canonicalText": "[[exam/zm501-02mid.md|zm501-02mid]]  organize this in [[zm02.md|zm02]]",
+      "images": [],
+      "contentDigest": "7ec80d45601b9a9ffbb45ded1f8593628565f98e9a1a0eb0c17f64f6b161b275",
+      "providerUserMessageId": "154815b8-0806-4f80-87bb-b56ddbfe92bb"
+    }
+  ]
+}

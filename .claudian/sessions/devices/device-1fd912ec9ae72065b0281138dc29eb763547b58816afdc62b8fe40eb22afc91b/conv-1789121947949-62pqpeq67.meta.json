@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789121947949-62pqpeq67",
+  "providerId": "claude",
+  "title": "Organize and clean up content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789121947952,
+  "lastActivityAt": 1789122037308,
+  "sessionId": "fc730d8e-5455-46cd-a11a-5435881c5ff3",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "fc730d8e-5455-46cd-a11a-5435881c5ff3"
+  },
+  "linkedContentPath": "exam/zm501.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2718,
+    "cacheReadInputTokens": 67514,
+    "contextWindow": 1000000,
+    "contextTokens": 70234,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

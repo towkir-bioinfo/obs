@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789120729426-k0fb8r6o9",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789120729451-gf340pz",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789120729424-0qtlx9y",
+      "timestamp": 1789120729424,
+      "rawDisplayText": "make home file",
+      "canonicalText": "make home file",
+      "images": [],
+      "contentDigest": "d5ae9ae7f811c3f196fae6c654f4eaf95b14fe69eb3a92631aff186ea189053e",
+      "providerUserMessageId": "0319294a-a50b-4b9c-9244-4825ee5678e9",
+      "providerAssistantMessageId": "c742010e-3ed5-4d29-91fb-1caa180635d8"
+    }
+  ]
+}
