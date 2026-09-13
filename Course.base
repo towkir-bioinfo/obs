@@ -6,5 +6,8 @@ views:
         - file.folder == "courses"
     order:
       - file.name
-      - file.embeds
       - file.ctime
+      - file.links
+    sort:
+      - property: file.links
+        direction: DESC
