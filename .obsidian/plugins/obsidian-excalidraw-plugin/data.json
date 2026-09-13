@@ -159,6 +159,7 @@
       }
     }
   },
+  "markdownImageDeletionPreference": "ask",
   "scriptEngineSettings": {},
   "autostartScripts": {},
   "autostartScriptFailures": {},
@@ -1113,6 +1114,5 @@
     "alignment": "center",
     "margin": "normal"
   },
-  "disableContextMenu": false,
-  "markdownImageDeletionPreference": "ask"
+  "disableContextMenu": false
 }
