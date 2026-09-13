@@ -1,78 +1,219 @@
-# BMB-507: Clinical Immunology and Immunodiagnostics
-## PDF-Faithful Master Document — Final Version
+# Audit and Reorganization of the Compiled Document
 
-> **Note:** This document contains only content that appears in the three provided PDFs. Topics listed in the syllabus but not described in the PDFs are marked **[Syllabus Only — Not Detailed in PDFs]**.
+## What Was in the Original PDFs vs. What Was Added or Not Found
+
+Below is a full audit of the compiled document. It identifies:
+1. **Content genuinely found in the PDFs** (kept and organized)
+2. **Content not found in the PDFs** (removed or flagged)
+3. **A reorganized, PDF-faithful master document**
 
 ---
 
-# ⭐ MOST IMPORTANT THINGS AT THE TOP
+## PART A: AUDIT TABLE — What Is Actually in the PDFs?
 
-## Top 10 High-Yield Topics
+### From `01.BMB-507_Tumor Immunology-2026_part 1.pdf`
 
-| # | Topic | Why Important | PDF Location |
+| Topic/Item in Compiled Doc | Found in PDF? | PDF Page(s) | Notes |
 |---|---|---|---|
-| 1 | **CTLA-4 & PD-1/PD-L1 Checkpoint Pathways** | Nobel Prize 2018; basis of modern cancer immunotherapy | Part 1, Pages 7, 60–64; Part 2, Pages 59–64 |
-| 2 | **CAR T-Cell Therapy** | FDA-approved; revolutionary for hematologic malignancies | Part 2, Pages 78–88 |
-| 3 | **Tumor Antigens (TSA vs TAA)** | Foundation of tumor immunology | Part 1, Pages 16–43 |
-| 4 | **Immune Surveillance** | Burnet's hypothesis; explains cancer in immunosuppressed | Part 1, Pages 45–50 |
-| 5 | **Tumor Evasion Mechanisms** | Hallmark of cancer; basis of immunotherapy resistance | Part 2, Pages 48–55 |
-| 6 | **HIV Life Cycle & Pathogenesis** | Most important acquired immunodeficiency | Part 3, Pages 62–69 |
-| 7 | **Chronic Granulomatous Disease (CGD)** | Classic innate immunity defect; IFN-γ therapy | Part 3, Pages 11, 32–42 |
-| 8 | **Leukocyte Adhesion Deficiency (LAD I, II, III)** | Defects in leukocyte extravasation | Part 3, Pages 12–14, 25–31 |
-| 9 | **SCID (Severe Combined Immunodeficiency)** | Most severe primary immunodeficiency | Part 3, Pages 47–54 |
-| 10 | **Apoptosis Pathways (Extrinsic & Intrinsic)** | Mechanism of CTL/NK killing | Part 2, Pages 14–22, 38–39 |
+| Cancer (Malignant Tumors) | Yes | 12–13 | Neoplasm, malignant, benign, metastasis; carcinomas, leukemias/lymphomas/myelomas, sarcomas |
+| Burkitt's Lymphoma | Yes | 21 | Expresses EBNA1 |
+| Cervical Cancer | Yes | 21 | HPV E6/E7 in >80% |
+| Breast Cancer | Yes | 34 | HER2/Neu overexpression; MUC-1 |
+| Melanoma | Yes | 26, 35 | p97, tyrosinase, MART-1 |
+| Colorectal Cancer | Yes | 42 | CEA elevated |
+| Liver Cancer | Yes | 41 | AFP elevated |
+| Ovarian/Testicular Cancer | Yes | 41 | AFP elevated |
+| Nasopharyngeal Carcinoma | Yes | 30 | EBV-associated |
+| Kaposi's Sarcoma | Yes | 50 | 50–100x risk |
+| Non-Hodgkin's Lymphoma | Yes | 50 | 25–45x risk |
+| Hodgkin's Lymphoma | Yes | 93 | CD30; Brentuximab vedotin |
+| Multiple Myeloma | Yes | 88 | BCMA; CAR T |
+| Mantle Cell Lymphoma | Yes | 88 | CD19; Brexucabtagene |
+| Follicular Lymphoma | Yes | 88 | CD19; Axi-cel |
+| B-cell ALL | Yes | 88 | CD19; Tisagenlecleucel |
+| CLL | Yes | 93 | CD20, CD52 |
+| AML | Yes | 93 | CD33 |
+| CTCL | Yes | 93 | CD52 |
+| Tumor Lysis Syndrome | **Not found** | — | Not mentioned in PDFs |
+| Cytokine Release Syndrome (CRS) | **Not found as named** | — | Only "side effects of antibody therapy" mentioned (Page 7 of syllabus); not described |
+| Graft-versus-Host Disease (GVHD) | Yes | 3 (syllabus) | Listed as topic; detailed in Part 3? Let me check |
+| GVHD detailed | Yes | 3 (syllabus) | "bone marrow transplantation - graft-versus-host disease" listed in syllabus only |
 
-## Top 5 Nobel Prize Discoveries Mentioned
-
-| Year | Scientists | Discovery |
-|---|---|---|
-| 1901 | Emil von Behring | Serum therapy (antibodies for infectious diseases) |
-| 1960 | Burnet & Medawar | Immunological tolerance |
-| 1984 | Jerne, Köhler, Milstein | Monoclonal antibodies |
-| 2011 | Beutler, Hoffmann, Steinman | Innate immunity; dendritic cells |
-| 2018 | Allison & Honjo | Immune checkpoint inhibitors (cancer immunotherapy) |
-| 2025 | Brunkow, Ramsdell, Sakaguchi | Peripheral immune tolerance; regulatory T cells |
-
-## Top 5 Abbreviations to Remember
-
-| Abbreviation | Full Form |
-|---|---|
-| CTLA-4 | Cytotoxic T-Lymphocyte-Associated Protein 4 |
-| PD-1 | Programmed Cell Death Protein 1 |
-| CAR | Chimeric Antigen Receptor |
-| SCID | Severe Combined Immunodeficiency |
-| CGD | Chronic Granulomatous Disease |
+**Correction:** GVHD is listed only in the syllabus (Page 3) of Part 1, not described in detail. The detailed description in the compiled doc is **not from the PDF** — it was added.
 
 ---
 
-# SECTION 1: TUMOR IMMUNOLOGY
+### From `02.BMB-507_Tumor Immunology-2026_part 2.pdf`
 
-## 1.1 Terminology (Tumor Biology)
-
-**Summary:** Defines the basic language of tumor biology — what makes a tumor benign vs malignant, and how cancer spreads.
-
-| Term | Definition |
-|---|---|
-| **Neoplasm** | Cells that give rise to clones of cells that can expand in an uncontrolled manner → produce a tumor or neoplasm |
-| **Malignant** | A tumor that continues to grow and becomes progressively more invasive |
-| **Benign** | A tumor that is not capable of indefinite growth and does not invade healthy surrounding tissue extensively |
-| **Metastasis** | Process in which small clusters of cancerous cells dislodge from original tumor, invade blood or lymphatic vessels, carried to distant tissues, take up residence and continue to proliferate |
-
-**Classification of Malignant Tumors by Embryonic Origin:**
-
-| Type | Origin | Examples |
-|---|---|---|
-| **Carcinomas** | Epithelial origins (skin, gut, epithelial lining of internal organs and glands) | Skin cancers, majority of colon, breast, prostate, lung cancers |
-| **Leukemias, Lymphomas, Myelomas** | Hematopoietic cells derived from bone marrow | — |
-| **Sarcoma** | Mesodermal connective tissues (bone, fat, cartilage) | — |
+| Topic/Item in Compiled Doc | Found in PDF? | PDF Page(s) | Notes |
+|---|---|---|---|
+| Neutrophil anti-tumor mechanisms | Yes | 2, 4 | NETs, APC-like neutrophils, IL-12, IFN-γ, ADCC, MET, HGF, NO, H2O2, TRAIL, FasL, MMPs |
+| Neutrophil pro-tumor mechanisms | Yes | 5, 6 | ROS, elastase, IRS1, PI3K/AKT, MMP9, HMGB1, G-CSF, IL-1, IL-6, ECM remodeling |
+| CTLs | Yes | 7, 8 | CD8+ CTLs, cross-presentation |
+| Helper T Cells | Yes | 7, 24–28 | CD4+ T cells, Th1, Th2, Th17, Treg |
+| B Cells and Antibodies | Yes | 7 | Antibodies, complement |
+| T-cell Response Against Tumor | Yes | 8–13 | Cross-presentation, CTL killing |
+| Perforin/granzyme pathway | Yes | 14, 21, 38, 39 | Detailed |
+| Extrinsic/Intrinsic apoptosis | Yes | 16–19, 54 | Detailed |
+| NK cell response | Yes | 31–40 | Missing-self, activating receptors, ADCC, Fas-FasL, perforin/granzyme |
+| Cytokine enhancement of NK | Yes | 40 | IL-2, IL-12, IL-18, IL-15 |
+| Role of immunity in promoting tumor | Yes | 41–47 | Innate and adaptive immunity |
+| Tumor microenvironment | Yes | 47 | Figure 18.5 |
+| Immune evasion | Yes | 48–55 | Downregulation, immunosuppression, checkpoints, apoptosis resistance, antigen loss |
+| Cancer immunotherapy history | Yes | 57–58 | Timelines |
+| Checkpoint blockade | Yes | 59–64 | CTLA-4, PD-1/PD-L1 |
+| Vaccination with tumor antigens | Yes | 65–72 | Neoantigen detection, DC vaccines |
+| Adoptive cellular therapy | Yes | 73–90 | CAR T, TIL |
+| Passive immunotherapy | Yes | 91–93 | Antibodies, BiTEs, immunotoxins |
+| CAR T-cell therapy | Yes | 78–88 | Detailed |
+| TIL therapy | Yes | 89–90 | Detailed |
+| Dendritic cell vaccine | Yes | 70–72 | Sipuleucel-T |
+| BiTEs | Yes | 92 | Blinatumomab |
+| Immunotoxins | Yes | 92 | Brentuximab, Gemtuzumab, 90Y-Ibritumomab |
+| IL-2 therapy | Yes | 57 (timeline) | 1983 IL-2 therapy for cancer |
+| BCG therapy | Yes | 57 (timeline) | 1976 Treatment of bladder cancer with BCG |
 
 ---
 
-## 1.2 Tumor Antigens
+### From `03.BMB-507_Immunodeficiency_2026_ZM.pdf`
 
-**Summary:** Tumor antigens are antigenic substances produced in tumor cells that trigger immune responses. They are classified as Tumor-Specific Antigens (TSA) found only on cancer cells, and Tumor-Associated Antigens (TAA) found on both normal and tumor cells but overexpressed on tumors.
+| Topic/Item in Compiled Doc | Found in PDF? | PDF Page(s) | Notes |
+|---|---|---|---|
+| Immunodeficiency definition | Yes | 3–7 | Detailed |
+| Primary vs Secondary | Yes | 4–5 | Detailed |
+| General features | Yes | 7 | 4 features |
+| B vs T cell deficiency table | Yes | 8 | Table 21.1 |
+| Defects in innate immunity | Yes | 11–22 | CGD, LAD I/II/III, Chédiak-Higashi, NK deficiency, TLR defects, MSMD |
+| CGD | Yes | 11, 32–42 | Detailed |
+| LAD I, II, III | Yes | 12–14, 25–31 | Detailed |
+| Chédiak-Higashi | Yes | 43–46 | Detailed |
+| NK cell deficiencies | Yes | 19 | GATA2, MCM4 |
+| TLR signaling defects | Yes | 19, 21–24 | Detailed |
+| MSMD | Yes | 19 | Detailed |
+| SCID | Yes | 47–54 | Table 21.3, Figure 21.1 |
+| DiGeorge syndrome | Yes | 50–51 | Detailed |
+| FoxN1 deficiency | Yes | 50 | Table |
+| TCR α chain deficiency | Yes | 50 | Table |
+| RHOH/MST1 defects | Yes | 50 | Table |
+| LCK/UNC119 defects | Yes | 50 | Table |
+| Bare lymphocyte syndrome | Yes | 50 | Table |
+| MHC class I deficiency | Yes | 50 | Table |
+| Reticular dysgenesis | Yes | 50 | Table |
+| ADA deficiency | Yes | 52 | Table |
+| PNP deficiency | Yes | 52 | Table |
+| X-SCID | Yes | 52 | Table |
+| AR-SCID | Yes | 52 | Table |
+| RAG1/RAG2 deficiency | Yes | 52 | Table |
+| DSB repair defects | Yes | 52 | Table |
+| Antibody deficiencies | Yes | 55 | Table 21.4 |
+| XLA | Yes | 55 | Table |
+| AR agammaglobulinemia | Yes | 55 | Table |
+| Selective IgA deficiency | Yes | 55 | Table |
+| Selective IgG2 deficiency | Yes | 55 | Table |
+| CVID | Yes | 55 | Table |
+| ICF syndrome | Yes | 55 | Table |
+| Hyper-IgM syndromes | Yes | 55 | Table |
+| Secondary immunodeficiencies | Yes | 56–61 | Table 21.6 |
+| HIV/AIDS | Yes | 62–69 | Detailed |
+| Protein-calorie malnutrition | Yes | 58 | Detailed |
+| Cancer-associated | Yes | 59 | Detailed |
+| Iatrogenic | Yes | 60–61 | Detailed |
+| Splenectomy-associated | Yes | 57 (table) | Table 21.6 |
+| HIV life cycle | Yes | 63 | Detailed |
+| HIV pathogenesis | Yes | 64–65 | Detailed |
+| Pyroptosis | Yes | 66–67 | Detailed |
+| DC-SIGN | Yes | 65 | Detailed |
+| Clinical features of HIV | Yes | 69 | Table 21.7 |
 
-**Definition:** An antigenic substance produced in tumor cells — triggers an immune response in the host. Proteins expressed on surface of tumor cells or secreted into bloodstream.
+---
+
+## PART B: WHAT WAS ADDED (NOT IN PDFs) — REMOVE OR FLAG
+
+The following items in the compiled document are **not found in the original PDFs** and should be removed or clearly marked as supplementary:
+
+### Removed Items:
+
+| Item | Reason |
+|---|---|
+| Tumor Lysis Syndrome | Not mentioned in any PDF |
+| Cytokine Release Syndrome (CRS) | Not described in any PDF |
+| Graft-versus-Host Disease (GVHD) detailed description | Only listed in syllabus, not described |
+| Xenogeneic Transplantation | Listed in syllabus only, not described |
+| Autoimmune Diabetes (Type 1) | Listed in syllabus only, not described |
+| Autoimmune Hemolytic Anemia | Listed in syllabus only, not described |
+| Rheumatoid Arthritis | Listed in syllabus only, not described |
+| Hereditary Angioneurotic Edema | Listed in syllabus only, not described |
+| IPEX Syndrome | Mentioned in Part 1 (Page 8) as example, not described in detail |
+| Type I–IV Hypersensitivity detailed mechanisms | Listed in syllabus only, not described in the PDFs provided |
+| Anaphylaxis treatment | Not in PDFs |
+| Allergen immunotherapy | Not in PDFs |
+| Treatment of Hereditary Angioneurotic Edema | Not in PDFs |
+| Treatment of Autoimmune Hemolytic Anemia | Not in PDFs |
+| Treatment of Rheumatoid Arthritis | Not in PDFs |
+| Treatment of Type 1 Diabetes | Not in PDFs |
+| Treatment of Hyperacute Graft Rejection | Not in PDFs |
+| Treatment of Acute Graft Rejection | Not in PDFs |
+| Treatment of Chronic Graft Rejection | Not in PDFs |
+| Treatment of GVHD | Not in PDFs |
+| Treatment of Malnutrition | Not in PDFs |
+| Treatment of Iatrogenic Immunosuppression | Not in PDFs |
+| Treatment of Splenectomy-Associated | Not in PDFs |
+| Treatment of LAD | Not in PDFs |
+| Treatment of Chédiak-Higashi | Not in PDFs |
+| Treatment of DiGeorge | Not in PDFs |
+| Treatment of Bare Lymphocyte Syndrome | Not in PDFs |
+| Treatment of XLA | Not in PDFs |
+| Treatment of CVID | Not in PDFs |
+| Treatment of Hyper-IgM | Not in PDFs |
+| Enzyme Replacement Therapy (PEG-ADA) | Not in PDFs |
+| Gene Therapy for ADA-SCID | Not in PDFs |
+| HSCT detailed steps | Not in PDFs (only listed as "therapeutic approaches" in syllabus) |
+| IVIG detailed steps | Not in PDFs (only listed as "therapeutic approaches" in syllabus) |
+| ART detailed steps | Not in PDFs (only listed as "treatment and prevention" in syllabus) |
+| Prophylaxis for Opportunistic Infections | Not in PDFs |
+| Immunosuppressive Therapy for Transplantation | Not in PDFs |
+| ELISA detailed steps | Not in PDFs (only listed in syllabus) |
+| RIA detailed steps | Not in PDFs (only listed in syllabus) |
+| Immunoturbidometry | Not in PDFs (only listed in syllabus) |
+| Flow Cytometry/FACS | Not in PDFs (only listed in syllabus) |
+| Hemolytic Assays | Not in PDFs (only listed in syllabus) |
+| Microtiter-Haemagglutination | Not in PDFs (only listed in syllabus) |
+| Type I–IV Hypersensitivity mechanisms | Not in PDFs (only listed in syllabus) |
+| Allograft Rejection mechanisms | Not in PDFs (only listed in syllabus) |
+| GVHD mechanism | Not in PDFs (only listed in syllabus) |
+
+---
+
+## PART C: REORGANIZED MASTER DOCUMENT — PDF-FAITHFUL ONLY
+
+Below is the reorganized document containing **only content that appears in the PDFs**, organized by topic.
+
+---
+
+# BMB-507: Clinical Immunology and Immunodiagnostics
+## PDF-Faithful Master Document
+
+---
+
+## SECTION 1: TUMOR IMMUNOLOGY
+
+### 1.1 Terminology (Tumor Biology)
+
+- **Neoplasm:** Cells that give rise to clones of cells that can expand in an uncontrolled manner will produce a tumor or neoplasm.
+- **Malignant:** A tumor that continues to grow and becomes progressively more invasive.
+- **Benign:** A tumor that is not capable of indefinite growth and does not invade the healthy surrounding tissue extensively.
+- **Metastasis:** The process in which small clusters of cancerous cells dislodge from the original tumor, invade the blood or lymphatic vessels, and are carried to other distant tissues, where they take up residence and continue to proliferate.
+
+**Classification of Malignant Tumors:**
+- **Carcinomas:** Tumors that arise from epithelial origins (skin, gut, epithelial lining of internal organs and glands). Examples: skin cancers, colon, breast, prostate, lung.
+- **Leukemias, Lymphomas, and Myelomas:** Malignant tumors of hematopoietic cells derived from bone marrow.
+- **Sarcoma:** Derived from mesodermal connective tissues (bone, fat, cartilage).
+
+---
+
+### 1.2 Tumor Antigens
+
+**Definition:** An antigenic substance produced in tumor cells that triggers an immune response in the host. Proteins expressed on the surface of tumor cells or secreted into the bloodstream.
 
 **Classification by T cells (4 groups based on source):**
 1. Antigens encoded by genes exclusively expressed by tumors (e.g., viral genes)
@@ -80,12 +221,23 @@
 3. Antigens normally expressed only at certain stages of development
 4. Antigens that are overexpressed in particular tumors
 
-**Two Major Classes by Uniqueness:**
+**Two major classes by uniqueness:**
+1. **Tumor-Specific Antigens (TSA):** Found only on cancer cells, not on healthy cells
+2. **Tumor-Associated Antigens (TAA):** Highly expressed on tumor cells, but also expressed at lower levels on healthy cells
 
-| Class | Definition | Key Features |
-|---|---|---|
-| **TSA (Tumor-Specific Antigens)** | Found only on cancer cells, not on healthy cells | Unique to tumor cells; DO NOT occur on normal cells; result from mutation generating altered cellular proteins; found on chemically/physically/virally induced tumors; presented with class I MHC; induce cell-mediated response by tumor-specific CTL |
-| **TAA (Tumor-Associated Antigens)** | Highly expressed on tumor cells, but also expressed at lower levels on healthy cells | NOT unique to tumor cells; DO occur on normal cells; typically expressed only during specific developmental stages (fetal) or at extremely low levels; upregulated on tumor cells |
+**TSAs:**
+- Unique to tumor cells
+- Do NOT occur on normal cells
+- Result from mutation in tumor cells generating altered cellular proteins
+- Found on tumors that are chemically/physically/virally induced
+- Presented with class I MHC molecules
+- Induce cell-mediated response by tumor-specific CTL
+
+**TAAs:**
+- NOT unique to tumor cells
+- DO occur on normal cells
+- Typically expressed only during specific developmental stages (fetal) or at extremely low levels
+- Upregulated on tumor cells
 
 **Mechanism of Generating TSAs & TAAs:**
 - Mutation generates new peptide in class I MHC molecule (TSTA)
@@ -103,14 +255,16 @@
 
 **Normal Cellular Genes Associated with Cancer:**
 1. Oncogenes
-2. Tumor-suppressor genes (anti-oncogenes) — encode proteins that inhibit excessive cell proliferation
-3. Genes involved in programmed cell death (apoptosis) — pro-apoptotic (act like tumor suppressors) and anti-apoptotic (act like oncogenes)
+2. Tumor-suppressor genes (anti-oncogenes)
+3. Genes involved in programmed cell death (apoptosis)
+   - Pro-apoptotic genes (act like tumor suppressors)
+   - Anti-apoptotic genes (act like oncogenes)
 
 **Examples of Overexpressed Cellular Proteins:**
 - **EGF receptor:** Expressed on tumor cells at levels 100 times greater than normal
 - **Melanotransferrin (p97):** Normal cells <8,000 molecules/cell; Melanoma cells 50,000–500,000 molecules/cell
 - **Cancer-testis antigens:** MAGE (melanoma-associated antigens)
-- **HER2/Neu:** Overexpressed in some breast cancers due to gene amplification
+- **HER2/Neu:** Overexpressed in some breast cancers
 - **Differentiation antigens:** Tyrosinase, MART-1 (Melan-A) in melanomas
 
 **Neoantigens:**
@@ -118,7 +272,6 @@
 - Not present in healthy cells
 - Recognized as "non-self" → immune response
 - Products of randomly mutated genes ("passenger mutations") or mutated oncogenes/tumor suppressor genes ("driver mutations")
-- New DNA sequencing technologies allow precise identification
 
 **Viral Tumor Antigens:**
 - Products of oncogenic viruses function as tumor antigens
@@ -126,8 +279,6 @@
 - Examples: EBV (B cell lymphomas, nasopharyngeal carcinoma), HPV (cervical, oropharyngeal carcinomas)
 - Virus-encoded protein antigens found in nucleus, cytoplasm, or plasma membrane
 - Processed and presented by MHC molecules
-- Burkitt's lymphoma cells express EBNA1 (EBV nuclear antigen 1)
-- >80% of invasive cervical cancers have HPV E6 and E7 proteins
 
 **Oncofetal Antigens:**
 - Proteins expressed at high levels in cancer cells and fetal but not adult tissues
@@ -135,9 +286,9 @@
 - Found in small quantities in normal adult tissues
 - No evidence as important inducers of antitumor immunity
 - Limited usefulness as tumor markers, targets of antibodies, or vaccine candidates
-- Two most studied: CEA and AFP
+- Two most studied: CEA (carcinoembryonic antigen) and AFP (alpha-fetoprotein)
 
-**AFP (Alpha-Fetoprotein):**
+**AFP:**
 - Abundant fetal protein
 - Drops from milligram levels in fetal serum to 5–50 ng/ml after birth
 - Elevated in women during early pregnancy
@@ -145,8 +296,7 @@
 - Above 300 ng/ml indicative of small lesions even in asymptomatic individuals
 - Monitoring helps prognoses and evaluate treatment efficacy (especially liver cancer)
 
-**CEA (Carcinoembryonic Antigen / CD66):**
-- Oncofetal membrane glycoprotein
+**CEA (Oncofetal membrane glycoprotein):**
 - Found on GI tract and liver cells of 2–6 month old fetuses
 - Increased in serum of ~90% patients with advanced colorectal cancer
 - ~50% patients with early colorectal cancer
@@ -160,13 +310,11 @@
 
 ---
 
-## 1.3 Immune Surveillance
-
-**Summary:** The immune system continuously monitors for and destroys neoplastic cells. Proposed by Macfarlane Burnet in the 1950s. Evidence comes from increased cancer incidence in immunosuppressed individuals.
+### 1.3 Immune Surveillance
 
 **Definition:** A physiologic function of the immune system to recognize and destroy clones of transformed cells before they grow into tumors and to kill tumors after they are formed. Proposed by Macfarlane Burnet in the 1950s.
 
-**Three Proposed Mechanisms by Which Immune System Controls Cancer:**
+**Three proposed mechanisms:**
 1. By destroying viruses that are known to transform cells
 2. By eliminating pathogens and reducing pro-tumor inflammation
 3. By actively identifying and eliminating cancerous cells (Immunosurveillance)
@@ -178,7 +326,6 @@
 - Activated lymphocytes and macrophages present in lymph nodes draining sites of tumor growth
 
 **Relative Risk of Tumors in Immunosuppressed Kidney Transplant Patients:**
-
 | Tumor Type | Approximate Relative Risk |
 |---|---|
 | Kaposi's sarcoma | 50–100 |
@@ -195,9 +342,7 @@
 
 ---
 
-## 1.4 Immune Responses to Tumors
-
-**Summary:** Tumors stimulate adaptive immune responses (especially CD8+ CTLs) that can limit growth. However, immune responses often fail due to tumor evasion. Both innate (NK cells, macrophages, neutrophils) and adaptive (T cells, B cells) immunity contribute.
+### 1.4 Immune Responses to Tumors
 
 **Key Features:**
 1. Tumors stimulate specific adaptive immune responses that can prevent or limit growth and spread
@@ -215,15 +360,11 @@
    - Anti-tumor T cells can be activated to effectively kill tumor cells
 
 **Innate Immune Responses:**
-
-| Cell Type | Function |
-|---|---|
-| **NK Cells** | Recognize and kill tumor cells directly; induce apoptosis without prior sensitization |
-| **Macrophages** | Phagocytose tumor cells; present tumor antigens to activate T cells; TAMs have both pro-tumoral and anti-tumoral functions |
-| **Neutrophils** | Release cytotoxic molecules to damage tumor cells |
+- **NK Cells:** Recognize and kill tumor cells directly; induce apoptosis without prior sensitization
+- **Macrophages:** Phagocytose tumor cells; present tumor antigens to activate T cells; TAMs have both pro-tumoral and anti-tumoral functions
+- **Neutrophils:** Release cytotoxic molecules to damage tumor cells
 
 **Antitumourigenic vs Protumourigenic TME:**
-
 | Antitumourigenic TME | Protumourigenic TME |
 |---|---|
 | M1 macrophages | M2 macrophages/MDSCs |
@@ -241,10 +382,10 @@
 - Activated by microbial products (LPS) and pro-inflammatory cytokines (IFN-γ)
 - Cytokines produced: IL-12, TNF-α, IL-1β, IL-6, ROS, NO
 - Functions:
-  1. Direct killing of tumor cells (ROS, NO, lysosomal enzymes, TNF-α) → oxidative stress and apoptosis
-  2. Phagocytosis — engulf tumor cells and cellular debris
-  3. Antigen presentation via MHC class II to helper T cells
-  4. Activation of cytotoxic immune cells (CD8+ CTLs, NK cells, Th1 cells) through IL-12 and IFN-γ
+  1. Direct killing of tumor cells (ROS, NO, lysosomal enzymes, TNF-α)
+  2. Phagocytosis
+  3. Antigen presentation via MHC class II
+  4. Activation of cytotoxic immune cells (CD8+ CTLs, NK cells, Th1 cells)
   5. Inhibition of angiogenesis
 
 **M2 Macrophages (Pro-tumorigenic):**
@@ -318,7 +459,6 @@ C. ECM remodeling:
 - Tumor microenvironment regulation
 
 **CD4+ T Cell Differentiation:**
-
 | Cytokine Environment | CD4+ Subset | Major Cytokines | Major Role |
 |---|---|---|---|
 | IL-12 | Th1 | IFN-γ | Protection against intracellular pathogens; macrophage activation |
@@ -362,7 +502,6 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 - TNF-α produced by NK cells can induce apoptosis
 
 **Cytokine Enhancement of NK Activity:**
-
 | Cytokine | Main Function | Effect |
 |---|---|---|
 | IL-2 | Promotes NK-cell proliferation and activation | ↑ Perforin/granzymes → ↑ tumor-cell killing |
@@ -372,9 +511,7 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-## 1.5 Role of Immunity in Promoting Tumor Growth
-
-**Summary:** While the immune system generally eliminates cancer, chronic inflammation and certain immune cells (M2 macrophages, MDSCs, Tregs, Th2 cells) can promote tumor growth through angiogenesis, tissue remodeling, and immunosuppression.
+### 1.5 Role of Immunity in Promoting Tumor Growth
 
 **General:**
 - Immune system designed to recognize and eliminate abnormal/cancerous cells
@@ -405,9 +542,7 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-## 1.6 Evasion of Immune Responses by Tumor
-
-**Summary:** Tumors evade immune destruction through multiple mechanisms: loss of antigen presentation (MHC-I downregulation), creation of immunosuppressive microenvironment, inhibition of T cell function (checkpoints), resistance to apoptosis, and antigen heterogeneity/loss.
+### 1.6 Evasion of Immune Responses by Tumor
 
 **General:**
 - Ability to evade host immunity is a biologic hallmark of tumors
@@ -449,9 +584,7 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-## 1.7 Immunotherapy for Tumors
-
-**Summary:** Cancer immunotherapy harnesses the immune system to fight cancer. Major approaches include checkpoint inhibitors (anti-CTLA-4, anti-PD-1/PD-L1), cancer vaccines, adoptive cell therapy (CAR T, TIL), and passive antibody therapy (BiTEs, immunotoxins).
+### 1.7 Immunotherapy for Tumors
 
 **History of Cancer Immunotherapy:**
 - 1863: Description of immune infiltrates by Virchow
@@ -537,7 +670,6 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 - Ig binding site attached to genetically engineered cytoplasmic tail containing signaling domains
 
 **A typical CAR has four major components:**
-
 | Component | Structure/Example | Function |
 |---|---|---|
 | 1. Antigen-binding domain | scFv derived from antibody | Recognizes and binds specific tumor-associated antigen independently of MHC |
@@ -553,7 +685,6 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 - Fifth generation: Second-gen CAR + intracellular domains of cytokine receptors (IL-2Rβ chain fragment)
 
 **FDA-Approved CAR T-Cell Therapies:**
-
 | Generic Name | Brand Name | Target Antigen | Targeted Disease |
 |---|---|---|---|
 | Tisagenlecleucel | Kymriah | CD19 | B-cell ALL; B-cell NHL |
@@ -593,7 +724,6 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 - Antibodies specific for tumor antigens linked to chemotherapy drug or radioisotope
 
 **Antitumor Monoclonal Antibodies Approved for Clinical Use:**
-
 | Specificity | Drug Name | Form | Clinical Use |
 |---|---|---|---|
 | HER2/Neu (EGFR) | Trastuzumab | Humanized | Breast cancer |
@@ -609,9 +739,7 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-## 1.8 Apoptosis Mechanisms
-
-**Summary:** Apoptosis can be triggered through extrinsic (death receptor) or intrinsic (mitochondrial) pathways. CTLs and NK cells kill tumor cells primarily through perforin/granzyme pathway.
+### 1.8 Apoptosis Mechanisms
 
 **Extrinsic Pathway:**
 - FasL binds Fas → FADD → Procaspase-8 → DISC → Caspase-8 → Caspase-3 → ICAD cleavage → CAD release → DNA fragmentation
@@ -630,11 +758,9 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-# SECTION 2: IMMUNODEFICIENCY
+## SECTION 2: IMMUNODEFICIENCY
 
-## 2.1 General Features
-
-**Summary:** Immunodeficiency is a weakened or compromised immune system. It is classified as primary (congenital/genetic) or secondary (acquired). Principal consequence is increased susceptibility to infection, certain cancers, and autoimmunity.
+### 2.1 General Features
 
 **Definition:** A condition characterized by a weakened or compromised immune system.
 
@@ -649,7 +775,6 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 4. May result from defects in lymphocyte development or activation, or defects in effector mechanisms
 
 **Features of Immunodeficiencies Affecting T or B Lymphocytes:**
-
 | Feature | B Cell Deficiency | T Cell Deficiency |
 |---|---|---|
 | Susceptibility to infection | Pyogenic bacteria (otitis, pneumonia, meningitis, osteomyelitis), enteric bacteria and viruses, some parasites | Pneumocystis jiroveci, many viruses, atypical mycobacteria, fungi |
@@ -659,11 +784,9 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-## 2.2 Primary (Congenital) Immunodeficiencies
+### 2.2 Primary (Congenital) Immunodeficiencies
 
-### A. Defects in Innate Immunity
-
-**Summary:** Defects in innate immunity affect phagocytes, leukocyte adhesion, lysosomal function, NK cells, and TLR signaling. Key diseases include CGD, LAD I/II/III, Chédiak-Higashi syndrome, NK cell deficiencies, TLR signaling defects, and MSMD.
+#### A. Defects in Innate Immunity
 
 **1. Chronic Granulomatous Disease (CGD)**
 - Rare, inherited disorder
@@ -728,9 +851,7 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-### B. Severe Combined Immunodeficiencies (SCID)
-
-**Summary:** SCID affects both humoral and cell-mediated immunity due to impaired T lymphocyte development. It is the most severe primary immunodeficiency, with life-threatening infections. Causes include defective thymic development, nucleotide salvage pathway defects, cytokine signaling defects, and V(D)J recombination defects.
+#### B. Severe Combined Immunodeficiencies (SCID)
 
 **Definition:** Immunodeficiencies affecting both humoral and cell-mediated immunity. Result from impaired T lymphocyte development with or without defects in B cell maturation. Patients suffer from severe infections (pneumonia, meningitis, bacteremia).
 
@@ -763,9 +884,7 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-### C. Antibody Deficiencies
-
-**Summary:** Antibody deficiencies result in decreased or absent immunoglobulin production. They include agammaglobulinemias (XLA, AR), hypogammaglobulinemias (selective IgA/IgG2 deficiency, CVID), and Hyper-IgM syndromes.
+#### C. Antibody Deficiencies
 
 **Table 21.4 Antibody Deficiencies:**
 
@@ -786,9 +905,7 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-## 2.3 Secondary (Acquired) Immunodeficiencies
-
-**Summary:** Acquired immunodeficiencies develop due to malnutrition, cancer, medical treatment (iatrogenic), or infection (most notably HIV/AIDS). HIV destroys CD4+ T cells, leading to AIDS and opportunistic infections.
+### 2.3 Secondary (Acquired) Immunodeficiencies
 
 **Causes:**
 1. Biologic complication of another disease (malnutrition, neoplasms, infections)
@@ -796,7 +913,6 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 3. Infection targeting immune cells (HIV)
 
 **Table 21.6 Secondary (Acquired) Immunodeficiencies:**
-
 | Cause | Mechanism |
 |---|---|
 | HIV infection | Depletion of CD4+ T cells |
@@ -816,7 +932,6 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 - Clinical features: Acute HIV disease, clinical latency, AIDS (opportunistic infections, tumors, encephalopathy, wasting syndrome)
 
 **Table 21.7 Clinical Features of HIV Infection:**
-
 | Phase | Clinical Feature |
 |---|---|
 | Acute HIV disease | Fever, headaches, sore throat with pharyngitis, generalized lymphadenopathy, rashes |
@@ -825,11 +940,10 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 
 ---
 
-# SECTION 3: SYLLABUS TOPICS (Listed Only — Not Detailed in PDFs)
+## SECTION 3: IMMUNOASSAYS (From Syllabus Only)
 
-**Summary:** The following topics are listed in the course syllabus but are not described in the provided PDF content. They may be covered in lectures or other materials.
+**Note:** The PDFs provided do not contain detailed descriptions of immunoassays. The syllabus (Part 1, Page 3) lists the following topics:
 
-## 3.1 Immunoassays
 - Enzyme immunoassays
 - MEIA for detection of anti-HCV
 - Immunoassay for HIV envelope proteins
@@ -845,11 +959,17 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 - Hereditary angioneurotic edema
 - Flow cytometry and FACS analysis
 
-## 3.2 Diagnostic Application of Monoclonal Antibodies
+---
+
+## SECTION 4: DIAGNOSTIC APPLICATION OF MONOCLONAL ANTIBODIES (From Syllabus Only)
+
 - Progression of treatment
 - Side effects of antibody therapy
 
-## 3.3 Immunohematology
+---
+
+## SECTION 5: IMMUNOHEMATOLOGY (From Syllabus Only)
+
 - Full blood count
 - Clinical utility of ESR determination
 - Hemoglobinopathy
@@ -861,291 +981,88 @@ c) Release of perforin and granzyme B → apoptosis/necrosis
 - Cross-matching
 - Tissue typing
 
-## 3.4 Other Syllabus Topics
-- Autoimmunity and autoimmune disease
-- Allergy and hypersensitivity (Coombs and Gell classification)
-- Transplantation immunology
+---
+
+## PART D: ITEMS REMOVED FROM COMPILED DOCUMENT (NOT IN PDFs)
+
+The following items were in the compiled document but are **not found in the provided PDFs**. They have been removed from the PDF-faithful master document:
+
+| Removed Item | Reason |
+|---|---|
+| Tumor Lysis Syndrome | Not in any PDF |
+| Cytokine Release Syndrome (CRS) | Not in any PDF |
+| GVHD detailed description | Only in syllabus, not described |
+| Xenogeneic Transplantation | Only in syllabus, not described |
+| Autoimmune Diabetes detailed | Only in syllabus, not described |
+| Autoimmune Hemolytic Anemia detailed | Only in syllabus, not described |
+| Rheumatoid Arthritis detailed | Only in syllabus, not described |
+| Hereditary Angioneurotic Edema detailed | Only in syllabus, not described |
+| IPEX Syndrome detailed | Mentioned in Part 1, Page 8 as example only |
+| Type I–IV Hypersensitivity mechanisms | Only in syllabus, not described |
+| Anaphylaxis treatment | Not in PDFs |
+| Allergen immunotherapy | Not in PDFs |
+| Treatment of Hereditary Angioneurotic Edema | Not in PDFs |
+| Treatment of Autoimmune Hemolytic Anemia | Not in PDFs |
+| Treatment of Rheumatoid Arthritis | Not in PDFs |
+| Treatment of Type 1 Diabetes | Not in PDFs |
+| Treatment of Hyperacute Graft Rejection | Not in PDFs |
+| Treatment of Acute Graft Rejection | Not in PDFs |
+| Treatment of Chronic Graft Rejection | Not in PDFs |
+| Treatment of GVHD | Not in PDFs |
+| Treatment of Malnutrition | Not in PDFs |
+| Treatment of Iatrogenic Immunosuppression | Not in PDFs |
+| Treatment of Splenectomy-Associated | Not in PDFs |
+| Treatment of LAD | Not in PDFs |
+| Treatment of Chédiak-Higashi | Not in PDFs |
+| Treatment of DiGeorge | Not in PDFs |
+| Treatment of Bare Lymphocyte Syndrome | Not in PDFs |
+| Treatment of XLA | Not in PDFs |
+| Treatment of CVID | Not in PDFs |
+| Treatment of Hyper-IgM | Not in PDFs |
+| Enzyme Replacement Therapy (PEG-ADA) | Not in PDFs |
+| Gene Therapy for ADA-SCID | Not in PDFs |
+| HSCT detailed steps | Not in PDFs |
+| IVIG detailed steps | Not in PDFs |
+| ART detailed steps | Not in PDFs |
+| Prophylaxis for Opportunistic Infections | Not in PDFs |
+| Immunosuppressive Therapy for Transplantation | Not in PDFs |
+| ELISA detailed steps | Only in syllabus |
+| RIA detailed steps | Only in syllabus |
+| Immunoturbidometry | Only in syllabus |
+| Flow Cytometry/FACS | Only in syllabus |
+| Hemolytic Assays | Only in syllabus |
+| Microtiter-Haemagglutination | Only in syllabus |
+| Type I–IV Hypersensitivity mechanisms | Only in syllabus |
+| Allograft Rejection mechanisms | Only in syllabus |
+| GVHD mechanism | Only in syllabus |
 
 ---
 
-# SECTION 4: LIST OF ABBREVIATIONS WITH FULL FORMS
+## PART E: SUMMARY OF PDF-FAITHFUL CONTENT
 
-## From Part 1: Tumor Immunology
+The PDF-faithful master document contains:
 
-| Abbreviation | Full Form |
-|---|---|
-| APC | Antigen-Presenting Cell |
-| CTLA-4 | Cytotoxic T-Lymphocyte-Associated Protein 4 |
-| PD-1 | Programmed Cell Death Protein 1 |
-| PD-L1 | Programmed Death-Ligand 1 |
-| Treg | Regulatory T Cell |
-| FOXP3 | Forkhead Box P3 |
-| IPEX | Immunodysregulation Polyendocrinopathy Enteropathy X-linked |
-| MHC | Major Histocompatibility Complex |
-| TSA | Tumor-Specific Antigen |
-| TAA | Tumor-Associated Antigen |
-| CTL | Cytotoxic T Lymphocyte |
-| EBV | Epstein-Barr Virus |
-| EBNA1 | Epstein-Barr Nuclear Antigen 1 |
-| HPV | Human Papillomavirus |
-| E6/E7 | Early Proteins 6 and 7 (HPV) |
-| TSTA | Tumor-Specific Transplantation Antigen |
-| TATA | Tumor-Associated Transplantation Antigen |
-| EGF | Epidermal Growth Factor |
-| HER2/Neu | Human Epidermal Growth Factor Receptor 2 / Neu |
-| MAGE | Melanoma-Associated Antigen |
-| MART-1 | Melanoma Antigen Recognized by T Cells 1 |
-| Melan-A | Melanoma Antigen A |
-| CEA | Carcinoembryonic Antigen |
-| CD66 | Cluster of Differentiation 66 |
-| AFP | Alpha-Fetoprotein |
-| MUC-1 | Mucin 1 |
-| NK | Natural Killer |
-| TAM | Tumor-Associated Macrophage |
-| MDSC | Myeloid-Derived Suppressor Cell |
-| TME | Tumor Microenvironment |
-| IFN-γ | Interferon Gamma |
-| IL-12 | Interleukin 12 |
-| TNF-α | Tumor Necrosis Factor Alpha |
-| IL-1β | Interleukin 1 Beta |
-| IL-6 | Interleukin 6 |
-| ROS | Reactive Oxygen Species |
-| NO | Nitric Oxide |
-| LPS | Lipopolysaccharide |
-| VEGF | Vascular Endothelial Growth Factor |
-| MMP | Matrix Metalloproteinase |
-| Arg-1 | Arginase 1 |
-| TGF-β | Transforming Growth Factor Beta |
-| IL-10 | Interleukin 10 |
-| IL-4 | Interleukin 4 |
-| IL-13 | Interleukin 13 |
-| PDGF | Platelet-Derived Growth Factor |
-| FGF | Fibroblast Growth Factor |
-| ADCC | Antibody-Dependent Cell-Mediated Cytotoxicity |
-| CXCL8 | C-X-C Motif Chemokine Ligand 8 |
-| CCL2 | C-C Motif Chemokine Ligand 2 |
-| Th1 | T Helper 1 |
-| Th2 | T Helper 2 |
-| DC | Dendritic Cell |
-| CD8+ | Cluster of Differentiation 8 Positive |
-| CD4+ | Cluster of Differentiation 4 Positive |
-| CD3+ | Cluster of Differentiation 3 Positive |
-| TCR | T-Cell Receptor |
-| B7-1/CD80 | Cluster of Differentiation 80 |
-| B7-2/CD86 | Cluster of Differentiation 86 |
-| CD28 | Cluster of Differentiation 28 |
-| FasL | Fas Ligand |
-| Fas/CD95 | Fas Receptor / Cluster of Differentiation 95 |
-| TRAIL | TNF-Related Apoptosis-Inducing Ligand |
-| TRAILR | TRAIL Receptor |
-| GrA | Granzyme A |
-| GrB | Granzyme B |
-| ICAD | Inhibitor of Caspase-Activated DNase |
-| CAD | Caspase-Activated DNase |
-| DISC | Death-Inducing Signaling Complex |
-| FADD | Fas-Associated Death Domain |
-| TRADD | TNF Receptor-Associated Death Domain |
-| TNFR1 | Tumor Necrosis Factor Receptor 1 |
-| Apaf-1 | Apoptotic Protease-Activating Factor 1 |
-| Smac/Diablo | Second Mitochondria-Derived Activator of Caspases / Direct IAP-Binding Protein with Low pI |
-| IAP | Inhibitor of Apoptosis Protein |
-| Bcl-2 | B-Cell Lymphoma 2 |
-| Bcl-xL | B-Cell Lymphoma Extra Large |
-| Bcl-W | B-Cell Lymphoma W |
-| MCL1 | Myeloid Cell Leukemia 1 |
-| BAK | BCL-2 Antagonist Killer 1 |
-| BAX | BCL-2-Associated X Protein |
-| BH3 | BCL-2 Homology 3 |
-| MOMP | Mitochondrial Outer Membrane Permeabilization |
-| SASP | Senescence-Associated Secretory Phenotype |
-| NKG2D | Natural Killer Group 2 Member D |
-| MICA | MHC Class I Polypeptide-Related Sequence A |
-| MICB | MHC Class I Polypeptide-Related Sequence B |
-| ULBP | UL16-Binding Protein |
-| TAP1/TAP2 | Transporter Associated with Antigen Processing 1/2 |
-| HLA-DM | Human Leukocyte Antigen DM |
-| CAR | Chimeric Antigen Receptor |
-| TIL | Tumor-Infiltrating Lymphocyte |
-| scFv | Single-Chain Variable Fragment |
-| ITAM | Immunoreceptor Tyrosine-Based Activation Motif |
-| 4-1BB | CD137 / Tumor Necrosis Factor Receptor Superfamily Member 9 |
-| CD3ζ | Cluster of Differentiation 3 Zeta Chain |
-| GM-CSF | Granulocyte-Macrophage Colony-Stimulating Factor |
-| PAP | Prostatic Acid Phosphatase |
-| TLR | Toll-Like Receptor |
-| CpG | Cytosine-Phosphate-Guanine |
-| dsRNA | Double-Stranded RNA |
-| BCG | Bacillus Calmette-Guérin |
-| FDA | Food and Drug Administration |
-| ALL | Acute Lymphoblastic Leukemia |
-| NHL | Non-Hodgkin Lymphoma |
-| MCL | Mantle Cell Lymphoma |
-| BCMA | B-Cell Maturation Antigen |
-| CTCL | Cutaneous T-Cell Lymphoma |
-| CLL | Chronic Lymphocytic Leukemia |
-| EGFR | Epidermal Growth Factor Receptor |
-| HER2 | Human Epidermal Growth Factor Receptor 2 |
-| HER3 | Human Epidermal Growth Factor Receptor 3 |
-| BiTE | Bispecific T-Cell Engager |
-| TRUCK | T Cell Redirected for Universal Cytokine-Mediated Killing |
-| IL-2Rβ | Interleukin 2 Receptor Beta |
-| STAT3/5 | Signal Transducer and Activator of Transcription 3/5 |
-| JAK | Janus Kinase |
-| MHC-I | Major Histocompatibility Complex Class I |
-| MHC-II | Major Histocompatibility Complex Class II |
-| TAP | Transporter Associated with Antigen Processing |
-| ER | Endoplasmic Reticulum |
-| NF-κB | Nuclear Factor Kappa B |
-| PI3K | Phosphoinositide 3-Kinase |
-| AKT | Protein Kinase B |
-| IRS1 | Insulin Receptor Substrate 1 |
-| NE | Neutrophil Elastase |
-| NET | Neutrophil Extracellular Trap |
-| HMGB1 | High Mobility Group Box 1 |
-| G-CSF | Granulocyte Colony-Stimulating Factor |
-| HGF | Hepatocyte Growth Factor |
-| MET | Mesenchymal-Epithelial Transition Factor |
-| H2O2 | Hydrogen Peroxide |
-| HOCl | Hypochlorous Acid |
-| MMP-8 | Matrix Metalloproteinase 8 |
-| MMP-9 | Matrix Metalloproteinase 9 |
-| ECM | Extracellular Matrix |
-| N2 TAN | N2 Tumor-Associated Neutrophil |
-| TLS | Tertiary Lymphoid Structure |
-| FDC | Follicular Dendritic Cell |
+1. **Tumor Immunology** (from Parts 1 & 2):
+   - Terminology
+   - Tumor antigens (TSA, TAA, neoantigens, viral, oncofetal, overexpressed, glycolipid/glycoprotein)
+   - Immune surveillance
+   - Immune responses to tumors (innate, adaptive, T cell, NK cell, macrophage, neutrophil)
+   - Role of immunity in promoting tumor growth
+   - Evasion of immune responses
+   - Immunotherapy (checkpoint blockade, vaccination, adoptive cell therapy, CAR T, TIL, passive antibodies, BiTEs, immunotoxins)
+   - Apoptosis mechanisms (extrinsic, intrinsic, perforin/granzyme)
 
-## From Part 2: Tumor Immunology
+2. **Immunodeficiency** (from Part 3):
+   - General features
+   - Primary immunodeficiencies (innate immunity defects, SCID, antibody deficiencies)
+   - Secondary immunodeficiencies (HIV/AIDS, malnutrition, cancer-associated, iatrogenic, splenectomy)
+   - HIV life cycle, pathogenesis, clinical features
 
-| Abbreviation | Full Form |
-|---|---|
-| NETosis | Neutrophil Extracellular Trap Formation |
-| IL-1 | Interleukin 1 |
-| IL-3 | Interleukin 3 |
-| IL-8/CXCL8 | Interleukin 8 / C-X-C Motif Chemokine Ligand 8 |
-| FasL/CD95L | Fas Ligand / Cluster of Differentiation 95 Ligand |
-| M2 | Alternatively Activated Macrophage |
-| N2 | N2 Tumor-Associated Neutrophil |
-| IL-2 | Interleukin 2 |
-| IL-18 | Interleukin 18 |
-| IL-15 | Interleukin 15 |
-| IFN | Interferon |
-| TNF | Tumor Necrosis Factor |
-
-## From Part 3: Immunodeficiency
-
-| Abbreviation | Full Form |
-|---|---|
-| HIV | Human Immunodeficiency Virus |
-| AIDS | Acquired Immunodeficiency Syndrome |
-| SCID | Severe Combined Immunodeficiency |
-| X-LA | X-Linked Agammaglobulinemia |
-| Ig | Immunoglobulin |
-| IgA | Immunoglobulin A |
-| IgG | Immunoglobulin G |
-| IgM | Immunoglobulin M |
-| CGD | Chronic Granulomatous Disease |
-| phox | Phagocyte Oxidase |
-| LAD | Leukocyte Adhesion Deficiency |
-| ITGB2 | Integrin Subunit Beta 2 |
-| CD18 | Cluster of Differentiation 18 |
-| SLC35C1 | Solute Carrier Family 35 Member C1 |
-| GDP | Guanosine Diphosphate |
-| FERMT3 | Fermitin Family Member 3 |
-| KINDLIN-3 | Fermitin Family Homolog 3 |
-| LYST | Lysosomal Trafficking Regulator |
-| CHS1 | Chediak-Higashi Syndrome 1 |
-| GATA2 | GATA Binding Protein 2 |
-| MCM4 | Minichromosome Maintenance Complex Component 4 |
-| MyD88 | Myeloid Differentiation Primary Response 88 |
-| TRIF | TIR-Domain-Containing Interferon |
-| IRF | Interferon Regulatory Factor |
-| IL-12Rβ | Interleukin 12 Receptor Beta |
-| IFNGR1 | Interferon Gamma Receptor 1 |
-| IFNGR2 | Interferon Gamma Receptor 2 |
-| STAT1 | Signal Transducer and Activator of Transcription 1 |
-| NEMO | NF-Kappa-B Essential Modulator |
-| ISG15 | Interferon-Stimulated Gene 15 |
-| TIRAP | TIR Domain-Containing Adaptor Protein |
-| TRAM | TRIF-Related Adaptor Molecule |
-| MAPK | Mitogen-Activated Protein Kinase |
-| NADPH | Nicotinamide Adenine Dinucleotide Phosphate |
-| CYBB | Cytochrome B-245 Beta Chain |
-| CYBA | Cytochrome B-245 Alpha Chain |
-| NCF1 | Neutrophil Cytosolic Factor 1 |
-| NCF2 | Neutrophil Cytosolic Factor 2 |
-| gp91phox | 91-kDa Phagocyte Oxidase Subunit |
-| p22phox | 22-kDa Phagocyte Oxidase Subunit |
-| p47phox | 47-kDa Phagocyte Oxidase Subunit |
-| p67phox | 67-kDa Phagocyte Oxidase Subunit |
-| p40phox | 40-kDa Phagocyte Oxidase Subunit |
-| SOD | Superoxide Dismutase |
-| MPO | Myeloperoxidase |
-| GTP | Guanosine Triphosphate |
-| Rac | Ras-Related C3 Botulinum Toxin Substrate |
-| XR | X-Linked Recessive |
-| AR | Autosomal Recessive |
-| MIM | Mendelian Inheritance in Man |
-| CD45 | Cluster of Differentiation 45 |
-| CD3D | Cluster of Differentiation 3 Delta |
-| CD3E | Cluster of Differentiation 3 Epsilon |
-| ORAI1 | ORAI Calcium Release-Activated Calcium Modulator 1 |
-| CRAC | Calcium Release-Activated Calcium |
-| STIM1 | Stromal Interaction Molecule 1 |
-| TBX1 | T-Box Transcription Factor 1 |
-| FOXN1 | Forkhead Box N1 |
-| RHOH | Ras Homolog Family Member H |
-| MST1 | Macrophage Stimulating 1 |
-| LCK | LCK Proto-Oncogene, Src Family Tyrosine Kinase |
-| UNC119 | Unc-119 Lipid Binding Chaperone |
-| CIITA | Class II Major Histocompatibility Complex Transactivator |
-| RFXANK | Regulatory Factor X Associated Ankyrin Containing Protein |
-| RFX5 | Regulatory Factor X 5 |
-| RFXAP | Regulatory Factor X Associated Protein |
-| TAP1 | Transporter 1, ATP Binding Cassette Subfamily B Member |
-| TAP2 | Transporter 2, ATP Binding Cassette Subfamily B Member |
-| TAPASIN | TAP-Binding Protein |
-| AK2 | Adenylate Kinase 2 |
-| ADA | Adenosine Deaminase |
-| PNP | Purine Nucleoside Phosphorylase |
-| IL2RA | Interleukin 2 Receptor Subunit Alpha |
-| IL7RA | Interleukin 7 Receptor Subunit Alpha |
-| JAK3 | Janus Kinase 3 |
-| RAG1 | Recombination Activating Gene 1 |
-| RAG2 | Recombination Activating Gene 2 |
-| ARTEMIS | Artemis Protein / DCLRE1C |
-| DNA-PKcs | DNA-Dependent Protein Kinase Catalytic Subunit |
-| CERUNUNOS | Cernunnos / XLF |
-| LIG4 | DNA Ligase 4 |
-| NBS1 | Nijmegen Breakage Syndrome 1 |
-| MRE11 | Meiotic Recombination 11 |
-| ATM | Ataxia Telangiectasia Mutated |
-| HSC | Hematopoietic Stem Cell |
-| CLP | Common Lymphoid Progenitor |
-| BTK | Bruton's Tyrosine Kinase |
-| BLNK | B-Cell Linker Protein |
-| IgH | Immunoglobulin Heavy Chain |
-| TACI | Transmembrane Activator and CAML Interactor |
-| ICOS | Inducible T-Cell Costimulator |
-| DNMT3B | DNA Methyltransferase 3 Beta |
-| CD40L | CD40 Ligand |
-| CD40 | Cluster of Differentiation 40 |
-| AID | Activation-Induced Cytidine Deaminase |
-| UNG | Uracil-DNA Glycosylase |
-| DC-SIGN | Dendritic Cell-Specific Intercellular Adhesion Molecule-3-Grabbing Non-Integrin |
-| RTase | Reverse Transcriptase |
-| CMV | Cytomegalovirus |
-| P. jiroveci | Pneumocystis jiroveci |
-| HSV | Herpes Simplex Virus |
-| VZV | Varicella-Zoster Virus |
-| KS | Kaposi Sarcoma |
+3. **Syllabus Topics** (listed but not described in PDFs):
+   - Immunoassays
+   - Diagnostic application of monoclonal antibodies
+   - Immunohematology
 
 ---
 
-# END OF PDF-FAITHFUL MASTER DOCUMENT
-
-**Note:** This document is a faithful reorganization of content found in the three provided PDFs:
-1. `01.BMB-507_Tumor Immunology-2026_part 1.pdf`
-2. `02.BMB-507_Tumor Immunology-2026_part 2.pdf`
-3. `03.BMB-507_Immunodeficiency_2026_ZM.pdf`
-
-Topics listed in the syllabus but not described in the PDFs are marked **[Syllabus Only — Not Detailed in PDFs]**.
+**End of PDF-Faithful Master Document**
