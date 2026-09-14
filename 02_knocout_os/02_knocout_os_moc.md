@@ -28,7 +28,7 @@ tags:
 ## Experiment line-up
 
 1. Check whether *OCMT* is present in the transgenic lines
-	1. [[BR-67 T3 DNA Extraction (2026-09-03)]]
+	1. [[BR-67 T3 DNA Extraction (2026-09-03)(2026-09-13)]]
 	2. [[02_knocout_os_e001_pcr_mt_confirmation_t3]] — PCR (with primer), 25 T3 BR67 plants
 2. In planta / CRISPR
 	1. [[Alam et al 2022]] — reference paper (OsbHLH024 knockout via CRISPR/Cas9, salt stress in rice); design notes point at a not-yet-created [[proposal os knockout]] plan
