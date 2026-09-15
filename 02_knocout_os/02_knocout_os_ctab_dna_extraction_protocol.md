@@ -74,7 +74,7 @@ As followed on 2026-08-20 for [[02_knocout_os_e001_pcr_mt_confirmation_t3]]. Wor
 ## Still open
 
 - [ ] Record the primer pair and expected amplicon size used for the MT transgene PCR
-- [ ] Confirm whether a 70% ethanol wash is already part of the lab's standing protocol or needs adding
+- [x] Confirm whether a 70% ethanol wash is already part of the lab's standing protocol or needs adding
 
 ## Related
 
