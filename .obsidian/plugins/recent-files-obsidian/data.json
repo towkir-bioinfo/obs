@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "DUBANA Proposal",
+      "path": "DUBANA Proposal.md"
+    },
+    {
+      "basename": "DUBANA Registration",
+      "path": "DUBANA Registration.md"
+    },
+    {
+      "basename": "Oryza Coarctata Data_sets",
+      "path": "02_knocout_os/Oryza Coarctata Data_sets.md"
+    },
+    {
+      "basename": "PCR of OCMT",
+      "path": "02_knocout_os/PCR of OCMT.md"
+    },
+    {
+      "basename": "Protocol of PCR by Lab",
+      "path": "02_knocout_os/Protocol of PCR by Lab.md"
+    },
+    {
+      "basename": "OCMT Primer check",
+      "path": "02_knocout_os/OCMT Primer check.md"
+    },
+    {
+      "basename": "02_knocout_os_moc",
+      "path": "02_knocout_os/02_knocout_os_moc.md"
+    },
+    {
+      "basename": "OCMT RT-Primer check",
+      "path": "02_knocout_os/OCMT RT-Primer check.md"
+    },
+    {
+      "basename": "02_knockout_os_experimental_design.excalidraw",
+      "path": "02_knocout_os/02_knockout_os_experimental_design.excalidraw.md"
+    },
+    {
+      "basename": "Paper",
+      "path": "Base/Paper.base"
+    },
+    {
+      "basename": "Alam et al 2022",
+      "path": "papers/Alam et al 2022.md"
+    },
+    {
       "basename": "PCR Reagents, Their Roles, and Precautions",
-      "path": "PCR Reagents, Their Roles, and Precautions.md"
+      "path": "02_knocout_os/PCR Reagents, Their Roles, and Precautions.md"
     }
   ],
   "omittedPaths": [],
