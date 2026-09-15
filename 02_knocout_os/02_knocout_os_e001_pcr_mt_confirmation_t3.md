@@ -47,5 +47,4 @@ Due to Mendelian inheritance, the MT gene may not transmit from one generation t
 ## Related
 
 - [[02_knocout_os_ctab_dna_extraction_protocol]]
-- [[02_knocout_os_br67_mt_plant_lines_registry]]
-- [[2026-08-20]]
+
