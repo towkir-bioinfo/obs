@@ -2,10 +2,10 @@
 
 OCMT PCR Primer (For Ttransgenic Plant)
 
-| Sheet No | Box | Tube |                     |                                       |
-| -------- | --- | ---- | ------------------- | ------------------------------------- |
-| 3698     | 68  | 46   | PBT_Pc_Metalo_New_F | 5'-CACCCTTAAGCGAAAGCAGCAGCTAGCAG  -3' |
-| 3699     | 68  | 47   | PBT_Pc_Metalo_New_R | 5'-TCACACAAATACACGCTGCATTAATTAATTA-3' |
+| Sheet No | Box | Tube |                     |                                       |     |
+| -------- | --- | ---- | ------------------- | ------------------------------------- | --- |
+| 3698     | 68  | 46   | PBT_Pc_Metalo_New_F | 5'-CACCCTTAAGCGAAAGCAGCAGCTAGCAG  -3' | 29  |
+| 3699     | 68  | 47   | PBT_Pc_Metalo_New_R | 5'-TCACACAAATACACGCTGCATTAATTAATTA-3' | 31  |
 
 -20 freeze box 68 46-47
   
@@ -45,3 +45,11 @@ Blast result
 
 
 ![[Pasted image 20260914144833.png]]
+
+
+
+https://www.ncbi.nlm.nih.gov/nuccore/JAULJY000000000.1
+
+
+
+![[JAULJY000000000.1.png]]
