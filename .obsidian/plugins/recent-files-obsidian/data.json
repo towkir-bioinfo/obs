@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Ai for research",
-      "path": "Ai for research.md"
+      "basename": "warp unable to connect solve",
+      "path": "solutions/warp unable to connect solve.md"
+    },
+    {
+      "basename": "PCR Protocol",
+      "path": "02_knocout_os/PCR Protocol.md"
+    },
+    {
+      "basename": "PCR Reagents, Their Roles, and Precautions",
+      "path": "02_knocout_os/PCR Reagents, Their Roles, and Precautions.md"
+    },
+    {
+      "basename": "BR-67 T3 DNA Extraction (2026-09-03)(2026-09-13)",
+      "path": "02_knocout_os/BR-67 T3 DNA Extraction (2026-09-03)(2026-09-13).md"
+    },
+    {
+      "basename": "DUBANA Registration",
+      "path": "DUBANA Registration.md"
+    },
+    {
+      "basename": "cblast",
+      "path": "04_cblast/cblast.md"
     },
     {
       "basename": "Drawing 2026-09-18 13.54.10.excalidraw",
       "path": "Excalidraw/Drawing 2026-09-18 13.54.10.excalidraw.md"
     },
     {
-      "basename": "cblast",
-      "path": "04_cblast/cblast.md"
+      "basename": "Prompting Claude Opus 5",
+      "path": "Clippings/Prompting Claude Opus 5.md"
+    },
+    {
+      "basename": "Ai for research",
+      "path": "Ai for research.md"
     },
     {
       "basename": "cBLAST course",
@@ -23,10 +47,6 @@
     {
       "basename": "Bluetooth Failure on Windows — Full Troubleshooting Log",
       "path": "solutions/Bluetooth Failure on Windows — Full Troubleshooting Log.md"
-    },
-    {
-      "basename": "DUBANA Registration",
-      "path": "DUBANA Registration.md"
     },
     {
       "basename": "02_knocout_os_moc",
